@@ -1,0 +1,3 @@
+This project is a Streamlit based web app, created as our solution to a problem statement at the COEP CRIF India Hackathon, held on 13-14th January, 2023. The problem statement involved the use of Natural Language Processing and Sentiment Analysis to scrape and present news articles that are threatening to the reputation of any company.
+
+We used NewsAPI to fetch news articles, and analysed them using Hugging Face AI tool and TextBlob tool for figuring out their Sentiment. We also implemented libraries like BeautifulSoup and Spacy for web-scraping and NLP. We also used Microsoft's PowerBI tool to display analytics about the results.
